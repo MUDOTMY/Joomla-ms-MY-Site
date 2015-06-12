@@ -2,8 +2,8 @@
 <extension version="3.4" client="site" type="language" method="upgrade">
 	<name>Bahasa Melayu (Malaysia)</name>
 	<tag>ms-MY</tag>
-	<version>3.4.1.1</version>
-	<creationDate>2015-03-31</creationDate>
+	<version>3.4.2.1</version>
+	<creationDate>2015-06-12</creationDate>
 	<author>MU DOT MY | Joomla Community Malaysia</author>
 	<authorEmail>sam@mu.my</authorEmail>
 	<authorUrl>http://joomla.org.my</authorUrl>
